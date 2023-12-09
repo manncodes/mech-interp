@@ -1,0 +1,10 @@
+# requirements.txt
+transformer_lens
+circuitvis
+plotly
+fancy_einsum
+einops
+torch
+torchtyping
+sympy
+pyg
