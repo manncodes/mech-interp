@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=250px height=200px src="/mech-interp/fig/gt.png" alt="Project logo"></a>
+ <img width=250px height=200px src="/fig/gt.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">MECHANISTIC INTERPRETABILITY AND GROKKING PHENOMENON IN TRANSFORMER MODELS</h3>
