@@ -7,7 +7,7 @@
 
 ---
 
-<p align="center"> This project is a part of the course project for CSCI 567: Machine Learning at USC. In this project, we explore the interpretability of transformer models and try to understand the phenomenon of grokking in transformer models on algorithmic tasks.
+<p align="center"> This project is a part of the course project for CSCI 567: Machine Learning at USC for Fall '23. In this project, we explore the interpretability of transformer models and try to understand the phenomenon of grokking in transformer models on algorithmic tasks.
 </p>
 
 ## ✨ Group Members:
