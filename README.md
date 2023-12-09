@@ -10,87 +10,34 @@
 <p align="center"> This project is a part of the course project for CSCI 567: Machine Learning at USC. In this project, we explore the interpretability of transformer models and try to understand the phenomenon of grokking in transformer models on algorithmic tasks.
 </p>
 
-## 📝 Table of Contents
+## ✨ Group Members:
+<!-- Mann Patel Che Wei Wu Huy Nguyen Te Li Luis Gil -->
+- Mann Patel
+- Che Wei Wu
+- Huy Nguyen
+- Luis Gil
+- Te Li
 
-- [About](#about)
-- [Getting Started](#getting_started)
-- [Deployment](#deployment)
-- [Usage](#usage)
-- [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
+## 📎How to run the code:
+All the code is present in the notebooks folder. All the notebooks are self-explanatory and can be run on Google Colab. 
 
-## 🧐 About <a name = "about"></a>
+The repository is structured as follows:
 
-Write about 1-2 paragraphs describing the purpose of your project.
-
-## 🏁 Getting Started <a name = "getting_started"></a>
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them.
-
-```
-Give examples
+```bash
+└───mech-interp
+    ├───fig
+    └───notebooks
+        ├───gcd
+        ├───general-modular-addition
+        ├───primality
+        └───sorting
 ```
 
-### Installing
+For each task, we have a separate folder in the notebooks folder. For each notebook, the dependencies are `pip` installed in the first few cells.
+Regardless of that, we have also provided a `requirements.txt` file in the root directory of the repository. To install all the dependencies, run the following command in the root directory of the repository:
 
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
-```
-Give the example
+```bash
+pip install -r requirements.txt
 ```
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-## 🔧 Running the tests <a name = "tests"></a>
-
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## 🎈 Usage <a name="usage"></a>
-
-Add notes about how to use the system.
-
-## 🚀 Deployment <a name = "deployment"></a>
-
-Add additional notes about how to deploy this on a live system.
-
-## ✍️ Authors <a name = "authors"></a>
-
-
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
-
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+It is highly recommended to run the notebooks on Google Colab!
